@@ -1,7 +1,7 @@
 # Playwright Assertions Guide
 
 Cheat sheet ngắn gọn cho các assertion quan trọng trong Playwright.
-(A concise cheat sheet for essential Playwright assertions.(
+(A concise cheat sheet for essential Playwright assertions.)
 
 ---
 
