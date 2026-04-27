@@ -15,7 +15,8 @@ Cheat sheet ngắn gọn cho các assertion quan trọng trong Playwright.
 ---
 ## 📂 Categories
 Mình đã sắp xếp dựa trên các kịch bản tự động hóa trong các dự án thực tế:
-I’ve organized the assertions based on real-world automation scenarios:
+
+(I’ve organized the assertions based on real-world automation scenarios:)
 
 1. **Element State:** Verify visibility, interactivity, and focus.
 2. **Text & Content:** Check text match, attributes, values, and element counts.
@@ -62,6 +63,7 @@ PR / Issue đều welcome
 ## ⭐ Support
 
 Nếu hữu ích cho bạn, hãy ⭐ repo tiếp thêm động lực cho mình nhaa
+
 (If you find this helpful, give it a ⭐)
 
 ---
